@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three acts of the Generall Assembly for promoving [sic] the knowledge of the grounds of salvation and observing the rules of discipline</title>
+            <author>Church of Scotland. General Assembly.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33128</idno>
+            <idno type="STC">Wing C4269A</idno>
+            <idno type="STC">ESTC R35591</idno>
+            <idno type="EEBO-CITATION">15479764</idno>
+            <idno type="OCLC">ocm 15479764</idno>
+            <idno type="VID">103551</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33128)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103551)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three acts of the Generall Assembly for promoving [sic] the knowledge of the grounds of salvation and observing the rules of discipline</title>
+                  <author>Church of Scotland. General Assembly.</author>
+                  <author>Makghie, J.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[London?] printed :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J. Makghie.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Overture for ordering of lecturing and catechising ... -- Act concering admitting expectants to their trials ... -- Act for putting in execution former acts and constitutions of generall assemblies anent trying, admitting, removing, and deposing of church officers ...</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism.</term>
+               <term>Ecclesiastical law --  Scotland.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103551:1"/>
+            <!-- PDF PAGE 73 -->
+            <pb facs="tcp:103551:1"/>
+            <!-- PDF PAGE 73 -->
+            <p>THREE ACTS OF THE <hi>GENERALL ASSEMBLY,</hi> FOR PROMOVING the KNOVVLEDG OF THE GROUNDS OF SALVATION, AND OBSERVING the RULES OF DISCIPLINE.</p>
+            <p>Printed <hi>Anno,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:103551:2"/>
+            <!-- PDF PAGE 74 -->
+            <pb n="3" facs="tcp:103551:2"/>
+            <!-- PDF PAGE 74 -->
+            <head>Overture for Ordering of Lecturing and Catechi<g ref="char:EOLhyphen"/>ſing, to be obſerved while the next Generall Aſſembly.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh</hi> 
+                  <date>2. <hi>Auguſt,</hi> 1652.</date> Antemeridiem. <hi>Seſſ. XVII.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Generall Aſſembly, after conſide<g ref="char:EOLhyphen"/>ration of the great controverſie the Lord hath againſt the Land, for the manifold tranſgreſſions of his known Commands, and continued deſpiſing of Grace and Reconciliation offered through Jeſus Chriſt, whereby tranſ<g ref="char:EOLhyphen"/>greſſions might have been, and yet may be pardoned, and amended; And after acknowledgment of the juſt Quarrell he hath againſt us all his Miniſters, for the ſins of our Per<g ref="char:EOLhyphen"/>ſons and Calling, for which he hath ſo ſhaken the Judicatories and Aſſemblies of this Kirk amongſt us, and doth threaten to caſt down altogether the hedge of Diſcipline, and to thruſt all his Mi<g ref="char:EOLhyphen"/>niſters for a time from their places; Do ſeriouſly exhort and charge all and every one intruſted with the holy Miniſtry, to ſtir up themſelves to ſeek the LORD more carefully, and ſettle their own peace with him, and to make full proof of their Miniſtry, ſo long as the day of his patience continueth: And in particular, to bee
+<pb n="4" facs="tcp:103551:3"/>
+               <!-- PDF PAGE 75 -->more diligent in the means of acquainting the people with the Scri<g ref="char:EOLhyphen"/>pture, and grounds of Religion held forth in the Catechiſm, And to this end does Recommend,</p>
+            <p n="1">
+               <hi>1.</hi> That every Miniſter do ſo diſpoſe of the time appointed for the reading of Scripture, as both the Order of the Directory, and Act of Uniformity in the point of Lecture, may be obſerved; That two Chapters being read, one of the Old Teſtament, and the other of the New, after reading of the firſt, ſome few Obſervations of the chief Doctrines being held forth, and propounded briefly and plainly to the people, time may be left to read the ſecond Chap<g ref="char:EOLhyphen"/>ter, and to give ſome brief Obſervations on it alſo, as the time al<g ref="char:EOLhyphen"/>lowed will ſuffer.</p>
+            <p n="2">
+               <hi>2.</hi> For promoving the work of Catechiſing, the Aſſembly, be<g ref="char:EOLhyphen"/>ſides that they renew the Act for Catechiſing weekly,
+<list>
+                  <item>1. Recom<g ref="char:EOLhyphen"/>mends that alſo every LORDS Day, when the people do moſt fre<g ref="char:EOLhyphen"/>quently conveen, ſome competent portion of the Catechiſm be ex<g ref="char:EOLhyphen"/>plained before the whole Congregation (without prejudice of the Preaching) And Recommendeth that in this publike Cate<g ref="char:EOLhyphen"/>chetick inſtruction, the points that are handled, be propounded by queſtion, to be anſwered by ſome called up for that purpoſe.</item>
+                  <item>2. And becauſe many being baſhfull to ſpeak in publike audience, do either altogether abſent themſelves, or if they muſt compear, are ſo diſtempered with fear, that the edification is marred; The Aſſembly Recommendeth this Overture, that the Miniſter, in the publike Catechetick Inſtruction, call up ſome that are more able in knowledge, and prepared before, to anſwer the points that are to be interrogat and explained, that all the Congregation may the more freely drink in knowledge, and more frequently attend ſuch exerciſes; and that others, that are not ſo fit to ſpeak in publike, be tryed in their knowledge, at the more private dyets of exami<g ref="char:EOLhyphen"/>nation, or in their families.</item>
+                  <item>3. That Miniſters, beſide publike teaching and inſtructing, be carefull, and make conſcience to teach and inſtruct from houſe to houſe, and frequently viſite the families
+<pb n="5" facs="tcp:103551:3"/>
+                     <!-- PDF PAGE 75 -->within their charge, on purpoſe for this very work; And try what pains Parents and Heads of Families take to inſtruct ſuch as are under them, according to their ſtation: and, if they find them negligent herein, to admoniſh them: and if, after oftner admoni<g ref="char:EOLhyphen"/>nition, they continue in that ſinfull negligence, to bring them to more publike admonition before the Seſſion.</item>
+                  <item>4. That the Mini<g ref="char:EOLhyphen"/>ſters and Seſſions of every Congregation ſee, that ſuch as have Schools in their bounds, exerciſe the young ones under their charge in getting the Catechiſm by heart, which will much ſerve to further the publike Catechetick Doctrine.</item>
+                  <item>5. And that the Miniſter, with ſome of the Seſſion appointed for that effect, do every quarter of a year, or ſo often as they can conveniently, vi<g ref="char:EOLhyphen"/>ſit the Schools in their bounds, to try what diligence is uſed in this: And if theſe that teach Schools ſhall be found negligent herein, and after admonition ſhall continue <gap reason="illegible: bleedthrough" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that <gap reason="illegible: bleedthrough" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> b<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> taken to get them removed, and others put in their place.</item>
+               </list>
+            </p>
+            <p>The Aſſembly Recommends to Presbyteries to be ſeriouſly thinking upon further Overtures, which may b<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conduceable for making Catechizing further uſefull, and may ſer<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for promoving the knowledge of GOD in the land, and to bring their thoughts to the next Generall Aſſembly.</p>
+         </div>
+         <div type="act">
+            <pb n="6" facs="tcp:103551:4"/>
+            <!-- PDF PAGE 76 -->
+            <head>Act concerning admitting Expectants to their tri<g ref="char:EOLhyphen"/>als, and Ruling Elders to act in Presbyteries and Synods.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh</hi> 
+                  <date>3. <hi>Auguſt,</hi> 1652.</date> Antemeridiem. <hi>Seſſ. XIX.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He General Aſſembly having, out of their ear<g ref="char:EOLhyphen"/>neſt deſire of the Peace and Unity of this Kirk, condeſcended upon an Overture of Peace, and not onely propounded it to ſome Brethren who were here, oppoſite to the publict Judi<g ref="char:EOLhyphen"/>catories of this Kirk; But alſo in purſuance of that end, Ordained the ſaid Overture, to be preſented and offered by the ſeverall Presbyte<g ref="char:EOLhyphen"/>ries or Synods, to all in their reſpective bounds, who hes Prote<g ref="char:EOLhyphen"/>ſted againſt, and Declined, or conſented or adhered unto the Pro<g ref="char:EOLhyphen"/>teſtations and Declinatours made againſt this and the preceeding Generall Aſſemblie, and the conditions therein contained, to be required of them; And conſidering the great prejudice like to ariſe to this Kirk, by increaſing of our unhappie differences and diſtractions, if young men ſhall be admitted into the Miniſtry, which ſhall ſtill blow the fire of contention, and continue in avow<g ref="char:EOLhyphen"/>ed oppoſition to, and contempt of the publick Judicatories, Therefore Ordaines Presbyteries to take ſpeciall care, that upon the calling of any Expectant to a particular charge of the Miniſtry,
+<pb n="7" facs="tcp:103551:4"/>
+               <!-- PDF PAGE 76 -->before they admit him to his trialls, they require him under his hand, to paſſe from the Proteſtations and Declinatours againſt this and the preceeding Generall Aſſemblie, if he hath been ac<g ref="char:EOLhyphen"/>ceſſory to the ſame, and to promiſe and give aſſurance that he ſhall abſtain from holding up debates and controverſies, about matters of differences in this Kirk, ſince the Aſſembly 1650, in Preaching, Writing, or other wayes. Upon the performance whereof, the Presbyterie ſhall proceed to his trialls, if not, in that caſe, the Presbyterie ſhall forbear to proceed untill the next Ge<g ref="char:EOLhyphen"/>nerall Aſſembly, leaving liberty to the Presbyterie and Congre<g ref="char:EOLhyphen"/>gation for planting of the place otherwiſe. And the Aſſembly Or<g ref="char:EOLhyphen"/>daines and requires that Presbyteries be not ſudden to lay by ſuch young men as at firſt refuſes or ſcruples to perform theſe conditi<g ref="char:EOLhyphen"/>ons mentioned, but that pains be taken upon them to convince them of the reaſonableneſſe thereof, and to perſwade them to embrace them, and to give them a competent time for that effect.</p>
+            <p>Likeas the Aſſembly conſidering the prejudice of Elders com<g ref="char:EOLhyphen"/>ming to Presbyteries for ſtrengthening a faction in oppoſition to the publick Judicatories, Ordains, that Presbyteries ſhall require the ſame things fore-mentioned of every Ruling Elder that comes to ſit and act in Presbyteries, and in caſe of his refuſall, ſhall not admit him to act as an Elder in the Presbyterie, but require the Kirk Seſſion from which he is ſent, to make choiſe of, and ſend another, who for the Peace of this Church, ſhall agree to perform the conditions required.</p>
+         </div>
+         <div type="act">
+            <pb n="8" facs="tcp:103551:5"/>
+            <!-- PDF PAGE 77 -->
+            <head>Act for putting in execution former Acts and con<g ref="char:EOLhyphen"/>ſtitutions of Generall Aſſemblies, anent trying. admitting, removing, and depoſing of Church Officers, cen<g ref="char:EOLhyphen"/>ſuring of ſcandalous perſons, receiving of penitents, and debar<g ref="char:EOLhyphen"/>ring of perſons from the LORDS Table.</head>
+            <opener>
+               <dateline>
+                  <hi>Edinburgh</hi> 
+                  <date>3. <hi>Auguſt,</hi> 1652.</date> Poſtmeridiem. <hi>Seſſ. XX.</hi>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Generall Aſſembly, conſidering the obligations that lyes upon all Eccleſiaſtick Judicatories, and Miniſters within this Land, by the commande<g ref="char:EOLhyphen"/>ment of GOD, and our Covenants, and Engage<g ref="char:EOLhyphen"/>ments taken upon us, before GOD and the World (whereunto they reſolve, in the power of the LORDS might, conſtantly to adhere) and to ſhew themſelves faithfull, and zealous in all their adminiſtrations, for the LORD, and for advan<g ref="char:EOLhyphen"/>cing the Work of Reformation, and particularly, conſidering that the condition of this time doth require in ſpeciall wayes, that in trying, admitting, removing, and depoſing of Church Officers, cenſuring of ſcandalous perſons, diſpenſing of Ordinances, recei<g ref="char:EOLhyphen"/>ving of penitents, the rules of the Word of GOD, and conſtitu<g ref="char:EOLhyphen"/>tions of this Kirk be diligently put in execution and acuratly ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <p>Therefore,</p>
+            <p>The Aſſembly Ordains, that Presbyteries and Synods, in ad<g ref="char:EOLhyphen"/>mitting of Perſons to the Miniſtry, be acurate in their trialls, ac<g ref="char:EOLhyphen"/>cording
+<pb n="9" facs="tcp:103551:5"/>
+               <!-- PDF PAGE 77 -->to the order preſcribed in this Church, that none be admitted to the holy and high function, but ſuch as are qualified according as is required in the Word of GOD, and conſtitutions of this Kirk, both for knowledge in the myſterie of godlineſſe, and abilities to teach and con<g ref="char:EOLhyphen"/>vince the gain-ſayers, as alſo in converſation and godli<g ref="char:EOLhyphen"/>neſſe, that they lay hands ſuddenly on no man, nor be par<g ref="char:EOLhyphen"/>taker of other mens ſin, and for this end that every Pres<g ref="char:EOLhyphen"/>byterie be carefull to have gathered together ſuch Acts of Aſſemblies as concerneth the triall of Miniſters, and have them before them, whenſoever any perſon is called to any place of the Miniſtery, and is upon his trialls.</p>
+            <p n="2">
+               <hi>2.</hi> Ordaines that Presbyteries and Synods, in their re<g ref="char:EOLhyphen"/>ſpective bounds, make conſcience, that ſuch Miniſters as are found either ignorant and not apt to feed the people of GOD with knowledge and underſtanding, or erroneous in their judgement in matters of Religion, or are ſcandalous in their life and converſation, and are not examples unto their flocks in godly and holy walking, or diſaffected to the work of Reformation, be cenſured according to the degree of their offence and Acts of Aſſemblies. And for this end, that they be frequent and acurate in viſitation of Kirks, and therein make conſcienſcious uſe of the rules preſcribed for viſitations, and of ſuch Acts of former Aſſemblies, as holds forth the duties of Miniſters, and the grounds and cauſes of cenſure.</p>
+            <p n="3">
+               <hi>3.</hi> Ordains that, where Miniſters lawfully depoſed, are unlawfully admitted and not according to the Order pre<g ref="char:EOLhyphen"/>ſcribed in the Acts of Generall Aſſemblies, or intrudes themſelves into places, Presbyteries and Synods make uſe of that Power and Authority which CHRIST hes put in their hands, to remedie the ſame, and to cenſure ſuch diſ<g ref="char:EOLhyphen"/>orders and enormities, as they deſerve, And that people
+<pb n="10" facs="tcp:103551:6"/>
+               <!-- PDF PAGE 78 -->be not acceſſory unto, or concurring with any Miniſters that are depoſed, in intruding themſelves into places no<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give them any countenance that does ſo, as they would not draw upon themſelves the wrath of GOD, by con<g ref="char:EOLhyphen"/>temning and deſpiſing CHRISTS Ordinance of Diſcipline, And that no Presbyteries nor Synods proceed to open the mouths of, or readmit unto the Miniſtery, and de<g ref="char:EOLhyphen"/>poſed Miniſters, but according to the Order preſcribed in the Acts of Generall Aſſemblies, As they will be an<g ref="char:EOLhyphen"/>ſwerable unto the Generall Aſſemblie.</p>
+            <p n="4">
+               <hi>4.</hi> Ordaines that Seſſions be carefull that none be ad<g ref="char:EOLhyphen"/>mitted to be Elders in Congregations, but ſuch as are in ſome competent meaſure able and qualified with know<g ref="char:EOLhyphen"/>ledge of Religion, and underſtanding of the dueties of their calling, for diſcharging the dueties of that Office, and of a blameleſſe chriſtian and godly converſation; And that before any be admitted to be an Elder, the Perſons name that is deſigned, be publickly intimate to the Congre<g ref="char:EOLhyphen"/>gation the LORDS Day before, that if any have any thing to object againſt him, they may come and preſent the ſame to the Seſſion or to the Miniſter. And that if any Elder be found negligent in the duties of his charge, and continue ſo after admonition, or ſcandalous in his life and converſation, or to be a neglecter of the worſhip of GOD in his Family, he be removed from and purged out of the Seſſion.</p>
+            <p n="5">
+               <hi>5.</hi> Ordaines that Seſſions and Presbyteries be carefull, and make conſcience by all means to cenſure impartially all perſons of whatſoever rank or condition, that are ſcanda<g ref="char:EOLhyphen"/>lous, either in things of the firſt, or in things of the ſe<g ref="char:EOLhyphen"/>cond Table, according to the Rules and Order which Chriſt hath preſcribed in his Word, and to proceed to the higheſt cenſures, with ſuch as are groſſely and obſtinatly ſcanda<g ref="char:EOLhyphen"/>lous
+<pb n="11" facs="tcp:103551:6"/>
+               <!-- PDF PAGE 78 -->or are ignorant, and contemn, and continuedly ne<g ref="char:EOLhyphen"/>glect the means of knowledge, as publike and private cate<g ref="char:EOLhyphen"/>chizing, <hi>&amp;c.</hi> after they are made inexcuſable by ſufficient means uſed to reclaim and gain them.</p>
+            <p n="6">
+               <hi>6.</hi> Ordaines that Miniſters and Seſſions in Congregati<g ref="char:EOLhyphen"/>ons be carefull, as they will be anſwerable to CHRIST JESUS, to debar from the LORDS Table, all ſuch per<g ref="char:EOLhyphen"/>ſons as are found not to walk ſutably to the Goſpel, and being convinced and admoniſhed thereof, do not reform; As alſo all ſuch as have not knowledge to examine them<g ref="char:EOLhyphen"/>ſelves, and to diſcern the LORDS Body. And that for the more orderly performing of this, the Miniſter in exami<g ref="char:EOLhyphen"/>nation of the people, have ſome of the Elders alwayes with him, and repreſent unto the Seſſion ſuch as are found groſſely ignorant, that by order of the Seſſion they may be debarred.</p>
+            <p n="7">
+               <hi>7.</hi> That Presbyteries and Seſſions make conſcience, that ſuch perſons as are found ſcandalous, and are under cen<g ref="char:EOLhyphen"/>ſure for that cauſe, be not received nor abſolved from their cenſure, unleſſe they give ſuch ſatisfaction and evid<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces of their repentance, as are expreſſed in the Acts of the Aſſemblies, concerning the receiving of penitents.</p>
+            <closer>
+               <signed>J. Makghie.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
